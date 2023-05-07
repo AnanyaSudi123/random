@@ -1,0 +1,78 @@
+img.center {
+    position: absolute;
+    top: 200px;
+    bottom: 0;
+    left: 300px;
+    right: 0;
+    margin: auto;
+    width: 700px;
+    height: 600px;
+    image-rendering:optimizeQuality;
+    image-rendering:pixelated;
+}
+
+li {
+    text-align:-webkit-match-parent;
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+ul.national-parks li {
+    list-style-type: none;
+    position: absolute;
+}
+
+.Mukurthi {
+    top: 640px;
+    left: 910px;
+}
+
+.Silent-Valley {
+    top: 690px;
+    left: 870px;
+}
+
+.Mudumalai {
+    top: 495px;
+    left: 908px;
+}
+
+.Bandipur {
+    top: 420px;
+    left: 880px;
+}
+
+.Wayanad-2 {
+    top: 444px;
+    left: 791px;
+}
+
+.Wayanad-1 {
+    top: 368px;
+    left: 632px;
+    color: black;
+}
+
+
+.Nagarhole {
+    top: 310px;
+    left: 700px;
+    color: black;
+}
+
+a { 
+    text-decoration: none; color:black; 
+}
+
+a:hover {
+    background-color: rgb(223, 233, 247);
+    font-size: larger;
+}
