@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/random/static/css/main.9ae25dc1.css",
+    "main.js": "/random/static/js/main.3b169525.js",
+    "static/js/787.7e722b52.chunk.js": "/random/static/js/787.7e722b52.chunk.js",
+    "static/media/topo.png": "/random/static/media/topo.c2449205619a2e419904.png",
+    "static/media/lc19.jpeg": "/random/static/media/lc19.907c9a46bb18d5a28ce0.jpeg",
+    "static/media/lc19.png": "/random/static/media/lc19.73e2a5cbaf068a5222cb.png",
+    "static/media/lc17.png": "/random/static/media/lc17.b1c69c779eaf82aed800.png",
+    "static/media/lc16.png": "/random/static/media/lc16.e040584486537d785b5b.png",
+    "static/media/lc18.png": "/random/static/media/lc18.25f8bad5cc0782ef9662.png",
+    "static/media/lc15.png": "/random/static/media/lc15.86af326c6e1c4788b934.png",
+    "static/media/lc16-m.png": "/random/static/media/lc16-m.d511079a72bddc0c0725.png",
+    "static/media/nilgiri_cleanup.png": "/random/static/media/nilgiri_cleanup.90dcdc8d1177e1476cfb.png",
+    "static/media/expo_bar.png": "/random/static/media/expo_bar.8e062ab03572a563d0c1.png",
+    "static/media/exponential.png": "/random/static/media/exponential.b1b96647381b161a3cf5.png",
+    "static/media/final_q7.png": "/random/static/media/final_q7.a57c70302623f2b44938.png",
+    "index.html": "/random/index.html",
+    "main.9ae25dc1.css.map": "/random/static/css/main.9ae25dc1.css.map",
+    "main.3b169525.js.map": "/random/static/js/main.3b169525.js.map",
+    "787.7e722b52.chunk.js.map": "/random/static/js/787.7e722b52.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ae25dc1.css",
+    "static/js/main.3b169525.js"
+  ]
+}
